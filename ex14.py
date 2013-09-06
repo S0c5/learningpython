@@ -7,3 +7,7 @@ name, script = argv
 
 print "hello ", name
 print "script ", script
+
+a=raw_input("your name is?")
+
+print "%r",a
